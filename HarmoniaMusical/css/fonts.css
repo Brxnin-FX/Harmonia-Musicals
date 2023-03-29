@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "AutoDex";
+    src: url("../fonts/Autodex.otf") format("truetype");
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+  .section_descricao h1 {
+    font-size: 8rem;
+    font-family: "AutoDex", sans-serif;
+  }
+  .section_descricao p{
+    font-family: 'Roboto', sans-serif;
+  }
+  

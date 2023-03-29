@@ -1,0 +1,31 @@
+body{
+    background-image: url();
+}
+
+.container{
+    border: solid 2px black;
+    margin-top: 4%;
+    margin-left: 30%;
+    margin-right: 30%;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    background-color: rgba(255, 255, 255);
+   
+    height: auto;
+}
+input{
+    margin: 3px;
+    border: 2px solid black;
+}
+header{
+    background-color: white;
+    color: black;
+}
+footer{
+    
+    margin-top: 60px;
+    height: 150px;
+   
+}
+
